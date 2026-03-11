@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 🐧 About Me:
-💻 Tech enthusiast, systems engineer recently graduated with a <br>specialty in software engineering, creating things for the world and <br>with the purpose of contributing to others with my creativity and work. <br><br>🌱Currently learning Docker, improving in Backend development, <br>and creating my path to cybersecurity. <br><br>🤝I'm looking for new opportunities in IT in positions related to <br>software engineering. <br><br>⚡ Fun fact: some people say I'm systematic with the things I do, <br>but I like to be organized to avoid distractions
+💻 Tech enthusiast, systems engineer recently graduated with a <br>specialty in software engineering, creating things for the world and <br>with the purpose of contributing to others with my creativity and work. <br><br>🌱Currently learning Docker, improving in Backend development, <br>and creating my path to cybersecurity. <br><br>🤝I'm looking for new opportunities in tech positions related to <br>software engineering. <br><br>⚡ Fun fact: some people say I'm systematic with the things I do, <br>but I like to be organized to avoid distractions
 
 
 ## 🌐 Socials:
